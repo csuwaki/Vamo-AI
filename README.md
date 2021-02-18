@@ -2,7 +2,8 @@
   <img src="https://github.com/lis-r-barreto/Vamo-AI-Alura/blob/main/vamoAI.png">
 </p>
 
-# Formação Vamo AI - Projetos da Alura
+# Projetos - ALURA
+
 Projetos desenvolvidos na plataforma Alura durante a formação Vamo AI, parceria entre iFood e Resilia
 
 
