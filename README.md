@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lis-r-barreto/Vamo-AI-Alura/blob/master/vamoAI.png">
+  <img src="https://github.com/lis-r-barreto/Vamo-AI-Alura/blob/main/vamoAI.png">
 </p>
 
 # Formação Vamo AI - Projetos da Alura
